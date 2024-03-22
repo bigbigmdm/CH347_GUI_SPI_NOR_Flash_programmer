@@ -1,4 +1,4 @@
-# CH341a_spi_programmer
+# CH347_spi_programmer BETA VERSION! MAX CHIP CAPACITY 25Q128 (3byte address mode).
 QT5 Linux programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
 
 The Prog24 is a free I2C EEPROM programmer tool for CH341A device based on [QhexEdit2](https://github.com/Simsys/qhexedit2) and
